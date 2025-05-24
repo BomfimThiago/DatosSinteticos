@@ -3,3 +3,4 @@ venv/
 .env
 assets/processed_data.csv
 *.pyc
+__pycache__/
