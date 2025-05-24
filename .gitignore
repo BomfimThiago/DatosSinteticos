@@ -1,3 +1,5 @@
 venv/
 .env/
 .env
+assets/processed_data.csv
+*.pyc
